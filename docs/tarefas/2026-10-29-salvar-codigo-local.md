@@ -31,3 +31,7 @@ Renomeações e fontes de exercícios revisados; 9 fontes JavaScript passaram em
 Commit somente dos caminhos explicitamente revisados; merge remoto sem reescrever histórico. A comparação do hash remoto ocorre imediatamente após o push.
 
 Diff --check apontou espaços finais no material de estudo já existente; preservados por não afetarem sintaxe nem integrarem correção funcional solicitada.
+
+## Conciliação de clones
+
+Os dois URLs JavaScript-Lessons e LEARN-JS redirecionam ao mesmo histórico. As exclusões do clone antigo foram conciliadas com os exercícios presentes no clone novo. Preservados os arquivos novos e a versão remota mais completa (1433 linhas) de index.js; o texto local inicial permanece no commit 63060af. Os 18 textos excluídos no clone antigo estavam preservados no clone novo. Sintaxe de todos os JavaScript novamente conferida.
